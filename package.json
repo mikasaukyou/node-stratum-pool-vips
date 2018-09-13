@@ -28,7 +28,7 @@
         "url": "https://github.com/mikasaukyou/node-stratum-pool-vips.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/mikasaukyou/node-multi-hashing.git",
+        "multi-hashing": "git+https://github.com/mikasaukyou/node-multi-hashing.git#add/yespower",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
