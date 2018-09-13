@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool-vips.git"
+        "url": "https://github.com/mikasaukyou/node-stratum-pool-vips.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-vips.git",
+        "multi-hashing": "git://github.com/mikasaukyou/node-multi-hashing.git",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
