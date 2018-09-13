@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool-yescrypt-0.5.git"
+        "url": "https://github.com/mikasaukyou/node-multi-hashing.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/ROZ-MOFUMOFU-ME/node-multi-hashing-yescrypt-0.5.git#Support-for-BitZenyPlus",
+        "multi-hashing": "git+https://github.com/mikasaukyou/node-multi-hashing.git#add/yespower",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
