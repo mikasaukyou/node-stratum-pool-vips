@@ -12,9 +12,9 @@
         "litecoin",
         "scrypt"
     ],
-    "homepage": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool-vips",
+    "homepage": "https://github.com/mikasaukyou/",
     "bugs": {
-        "url": "https://github.com/ROZ-MOFUMOFU-ME/node-stratum-pool-vips/issues"
+        "url": "https://github.com/mikasaukyou/"
     },
     "license": "GPL-2.0",
     "author": "Matthew Little",
@@ -25,10 +25,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mikasaukyou/node-stratum-pool-vips.git"
+        "url": "https://github.com/mikasaukyou/node-multi-hashing.git"
     },
     "dependencies": {
-        "multi-hashing": "git+https://github.com/mikasaukyou/node-multi-hashing-vips.git#Support-for-MNEC",
+        "multi-hashing": "git+https://github.com/mikasaukyou/node-multi-hashing.git#add-YespowerR",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
