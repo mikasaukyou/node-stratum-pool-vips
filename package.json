@@ -28,7 +28,7 @@
         "url": "https://github.com/mikasaukyou/node-multi-hashing.git"
     },
     "dependencies": {
-        "multi-hashing": "git+https://github.com/mikasaukyou/node-multi-hashing.git#add/bellcoin",
+        "multi-hashing": "git+https://github.com/mikasaukyou/node-multi-hashing.git#add-YespowerR",
         "bitcoinjs-lib": "*",
         "bignum": "*",
         "base58-native": "*",
